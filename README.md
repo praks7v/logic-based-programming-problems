@@ -1,3 +1,6 @@
 - [Readme](README.md)
+- [Palindrome](palindrome.py)
+- [Factorial Calculation](factorial_calculation.py)
 - [Generate Readme Links](generate_readme_links.py)
+- [Prime Number](prime_number.py)
 - [Fibonacci Series](fibonacci_series.py)
