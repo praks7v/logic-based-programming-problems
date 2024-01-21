@@ -1,6 +1,7 @@
 - [Reverse String](reverse_string.py)
 - [Readme](README.md)
 - [Palindrome](palindrome.py)
+- [Check Anagrams](check_anagrams.py)
 - [Factorial Calculation](factorial_calculation.py)
 - [Generate Readme Links](generate_readme_links.py)
 - [Prime Number](prime_number.py)
