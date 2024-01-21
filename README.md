@@ -1,3 +1,4 @@
+- [Reverse String](reverse_string.py)
 - [Readme](README.md)
 - [Palindrome](palindrome.py)
 - [Factorial Calculation](factorial_calculation.py)
