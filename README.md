@@ -1,3 +1,4 @@
+- [Armstrong Number](armstrong_number.py)
 - [Reverse String](reverse_string.py)
 - [Readme](README.md)
 - [Palindrome](palindrome.py)
