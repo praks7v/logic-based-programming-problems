@@ -1,3 +1,4 @@
+- [Matrix Operations](matrix_operations.py)
 - [Linear Search](linear_search.py)
 - [Armstrong Number](armstrong_number.py)
 - [Lcm](lcm.py)
@@ -10,6 +11,8 @@
 - [Prime Factorization](prime_factorization.py)
 - [Generate Readme Links](generate_readme_links.py)
 - [Count Digits](count_digits.py)
+- [Pascals Tringle](pascals_tringle.py)
 - [Prime Number](prime_number.py)
+- [Leap Year](leap_year.py)
 - [Gcd](gcd.py)
 - [Fibonacci Series](fibonacci_series.py)
